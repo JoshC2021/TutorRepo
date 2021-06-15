@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\StudentTest\StudentTest\bin\Debug\netcoreapp3.1\StudentTest.exe
+C:\Users\Josh\source\repos\StudentTest\StudentTest\bin\Debug\netcoreapp3.1\StudentTest.deps.json
+C:\Users\Josh\source\repos\StudentTest\StudentTest\bin\Debug\netcoreapp3.1\StudentTest.runtimeconfig.json
+C:\Users\Josh\source\repos\StudentTest\StudentTest\bin\Debug\netcoreapp3.1\StudentTest.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\StudentTest\StudentTest\bin\Debug\netcoreapp3.1\StudentTest.dll
+C:\Users\Josh\source\repos\StudentTest\StudentTest\bin\Debug\netcoreapp3.1\StudentTest.pdb
+C:\Users\Josh\source\repos\StudentTest\StudentTest\obj\Debug\netcoreapp3.1\StudentTest.csproj.AssemblyReference.cache
+C:\Users\Josh\source\repos\StudentTest\StudentTest\obj\Debug\netcoreapp3.1\StudentTest.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\StudentTest\StudentTest\obj\Debug\netcoreapp3.1\StudentTest.AssemblyInfo.cs
+C:\Users\Josh\source\repos\StudentTest\StudentTest\obj\Debug\netcoreapp3.1\StudentTest.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\StudentTest\StudentTest\obj\Debug\netcoreapp3.1\StudentTest.dll
+C:\Users\Josh\source\repos\StudentTest\StudentTest\obj\Debug\netcoreapp3.1\StudentTest.pdb
+C:\Users\Josh\source\repos\StudentTest\StudentTest\obj\Debug\netcoreapp3.1\StudentTest.genruntimeconfig.cache
