@@ -10,6 +10,10 @@ namespace StudentTest
 
             Student s = new Student("Josh","Carolin");
             Console.WriteLine(s.Score);
+
+            Student defaultStudent = new Student();
+            Console.WriteLine(defaultStudent.FirstName);
+
         }
     }
 }
